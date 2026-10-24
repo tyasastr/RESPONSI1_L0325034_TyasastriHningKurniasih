@@ -1,0 +1,47 @@
+========================================
+       MANIFES PENGIRIMAN BANTUAN
+========================================
+
+Daftar Barang:
+----------------------------------------
+Kode Barang : EDX-001
+Nama Barang : Edge PC, Keyboard, dan Mouse
+Kategori    : Elektronik dan Periferal
+Berat       : 15.0 kg
+----------------------------------------
+Kode Barang : EDX-002
+Nama Barang : Modul Matematika Interaktif
+Kategori    : Buku Pendidikan
+Berat       : 20.0 kg
+----------------------------------------
+Kode Barang : EDX-003
+Nama Barang : Power Supply
+Kategori    : Kelistrikan
+Berat       : 10.0 kg
+----------------------------------------
+Kode Barang : EDX-004
+Nama Barang : Router WiFi
+Kategori    : Jaringan
+Berat       : 5.0 kg
+----------------------------------------
+Kode Barang : EDX-005
+Nama Barang : Printer
+Kategori    : Elektronik
+Berat       : 5.0 kg
+----------------------------------------
+Kode Barang : EDX-006
+Nama Barang : HDMI dan LAN
+Kategori    : Elektronik
+Berat       : 1.0 kg
+----------------------------------------
+Kode Barang : EDX-007
+Nama Barang : Printer
+Kategori    : Elektronik
+Berat       : 5.0 kg
+----------------------------------------
+
+Total jenis barang : 7
+Total berat muatan : 61.0 kg
+Label armada       : Truk Ekspedisi
+
+Manifes dibuat oleh Sistem Logistik Bantuan.
